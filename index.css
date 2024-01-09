@@ -1,0 +1,263 @@
+.newyear {
+ height: 600px;
+ width: 100%;
+ 
+ text-align: center;
+ background-image: url('Banner Image.png');
+ background-repeat: no-repeat;
+ background-position: center;
+ font-family: Merriweather;
+ 
+ 
+ border-radius: 16px;
+ 
+ 
+ 
+}
+
+.content {
+ padding-top:233px ; 
+ color: #FFF; 
+ 
+ font-size: 32px;
+ font-style: normal;
+ font-family: Merriweather;
+ text-shadow: black
+}
+
+.off{
+ color: #F00;
+ text-align: center;
+ font-size: 88px;
+}
+
+.small-headings{ 
+ color: red;
+
+ text-align: center;
+ font-size: 48px;
+
+}
+
+.mid{
+ text-align: center;
+}
+
+p{
+ font-size: 24px;
+}
+
+.midnight{
+ padding-left: 100px;
+ background-image: url("Vectorrr.png");
+ background-repeat: no-repeat;
+ margin-left: 300px;
+ color: #FFF;
+ display: flex;
+ margin-top: 120px;
+}
+
+.midnight img{
+padding-left: 300px;
+padding-top: 90px;
+} 
+
+
+.midnight h1{
+  color: #FFF;
+
+ font-family: Merriweather;
+ font-size: 64px;
+ padding-top: 120px;
+ 
+}
+
+.spn{
+ font-family: Inter;
+font-size: 18px;
+}
+
+.place {
+ text-align: center;
+ background-image: linear-gradient(180deg, rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0));
+
+ margin-left: 300px;
+ margin-right: 265px;
+ margin-top: 120px;
+ font-family: Inter;
+ 
+}
+
+
+.cont{
+ padding-top: 100px;
+ color: #070211;
+}
+
+.Bold{
+ color: #F00;
+}
+
+.btn{
+ 
+ padding: 16px;
+ background-color: red;
+ border-radius: 10px;
+ 
+color: #FFF;
+
+text-align: center;
+font-family: Inter;
+border: 0;
+margin-top: 50px;
+font-size: 20px;
+}
+
+.writings{
+ /* display: block; */
+
+}
+.circle{
+ display: flex;
+ margin-top: 100px;
+ margin-left: 300px;
+}
+
+.imga{
+ /* padding-left: 100px; */
+ margin-left: 120px;
+ padding-left: 20px;
+ padding-top: 20px;
+ padding-right: 20px;
+ padding-bottom: 20px;
+ border-radius: 200px;
+ border: 10px solid #F00;
+ 
+}
+
+.circle h3{
+ color: #F00;
+
+
+font-family: Inter;
+}
+
+.circle h1{
+ font-family: Merriweather;
+font-size: 48px;
+}
+
+.circle p{
+ font-family: Inter;
+font-size: 20px;
+}
+
+.con{
+ margin-left: 100px;
+ margin-top: 80px;
+}
+
+.con h1{
+ color:red
+}
+
+
+.part6{
+ text-align: center;
+ margin-top: 200px;
+}
+.part6 h2{
+ color: #070211;
+
+font-family: Inter;
+font-size: 24px;
+}
+
+.part6 h1{
+ color: #070211;
+font-family: Merriweather;
+font-size: 72px;
+}
+
+.holidays{
+ color: #F00;
+}
+
+.part7 {
+ position: relative;
+
+}
+
+.box {
+ position: absolute;
+ margin-left: 200px;
+ margin-top: 80px;
+ padding-top: 50px;
+}
+
+.girl {
+ position: absolute;
+ margin-left: 1230px;
+ margin-top: 67px;
+ 
+}
+
+.discount {
+ position: absolute;
+ margin-left: 1070px;
+ margin-top: 180px;
+}
+
+.color{
+ margin-top: 500px;
+ margin-left: 300px;
+ width: 1360px;
+
+}
+
+
+.wri{
+ display: block;
+ margin-left: 300px;
+ 
+}
+
+.wri h4{
+ color: #F00;
+
+font-family: Inter;
+font-size: 24px;
+}
+
+.wri h2{
+ color: #070211;
+
+font-family: Merriweather;
+font-size: 48px;
+}
+
+.wri p{
+ color: rgba(7, 2, 17, 0.60);
+
+font-family: Inter;
+font-size: 20px;
+}
+
+.pic1{
+ display: flex;
+ justify-content: center;
+ margin-left: 100px;
+ 
+}
+
+.pic2{
+ display: flex;
+ justify-content: center;
+ margin-left: 100px;
+ 
+}
+
+
+.pic img{
+ padding: 20px;
+}
